@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true"><!--버튼 눌렀을 때-->
+        <shape android:shape="rectangle">
+            <solid android:color="#DB4717"></solid>
+            <corners android:radius="20dp"></corners>
+        </shape>
+    </item>
+    <item><!--일반 상태일 때(버튼)-->
+        <shape android:shape="rectangle">
+            <solid android:color="#55DB4717"></solid>
+            <corners android:radius="20dp"></corners>
+        </shape>
+    </item>
+    <item android:state_enabled="false"><!--버튼 누를 수 없을 때-->
+        <shape android:shape="rectangle">
+            <solid android:color="#66777777"></solid>
+            <corners android:radius="20dp"></corners>
+        </shape>
+    </item>
+</selector>

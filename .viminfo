@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1618136329,,"wq"
+|2,0,1618688438,,"wq"
 :qw
 |2,0,1618131297,,"qw"
 :QW
@@ -42,34 +42,46 @@
 |3,0,4,1,1,0,1617726819,"Add multiply function"
 
 # File marks:
-'0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1618136329,"~/.git/COMMIT_EDITMSG"
-'1  1  33  ~/.git/COMMIT_EDITMSG
-|4,49,1,33,1618131310,"~/.git/COMMIT_EDITMSG"
-'2  1  0  ~/.git/COMMIT_EDITMSG
-|4,50,1,0,1618131153,"~/.git/COMMIT_EDITMSG"
+'0  2  0  /c/CookAndroid/Project/splash_pleazz/.git/COMMIT_EDITMSG
+|4,48,2,0,1618688438,"/c/CookAndroid/Project/splash_pleazz/.git/COMMIT_EDITMSG"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1618136329,"~/.git/COMMIT_EDITMSG"
+'2  1  33  ~/.git/COMMIT_EDITMSG
+|4,50,1,33,1618131310,"~/.git/COMMIT_EDITMSG"
 '3  1  0  ~/.git/COMMIT_EDITMSG
 |4,51,1,0,1618131153,"~/.git/COMMIT_EDITMSG"
 '4  1  0  ~/.git/COMMIT_EDITMSG
-|4,52,1,0,1618130670,"~/.git/COMMIT_EDITMSG"
+|4,52,1,0,1618131153,"~/.git/COMMIT_EDITMSG"
 '5  1  0  ~/.git/COMMIT_EDITMSG
 |4,53,1,0,1618130670,"~/.git/COMMIT_EDITMSG"
 '6  1  0  ~/.git/COMMIT_EDITMSG
 |4,54,1,0,1618130670,"~/.git/COMMIT_EDITMSG"
 '7  1  0  ~/.git/COMMIT_EDITMSG
 |4,55,1,0,1618130670,"~/.git/COMMIT_EDITMSG"
-'8  1  20  ~/MathTool/.git/COMMIT_EDITMSG
-|4,56,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
-'9  3  37  ~/MathTool/.git/COMMIT_EDITMSG
-|4,57,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+'8  1  0  ~/.git/COMMIT_EDITMSG
+|4,56,1,0,1618130670,"~/.git/COMMIT_EDITMSG"
+'9  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,57,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  2  0  /c/CookAndroid/Project/splash_pleazz/.git/COMMIT_EDITMSG
+|4,39,2,0,1618688438,"/c/CookAndroid/Project/splash_pleazz/.git/COMMIT_EDITMSG"
+-'  1  0  /c/CookAndroid/Project/splash_pleazz/.git/COMMIT_EDITMSG
+|4,39,1,0,1618688264,"/c/CookAndroid/Project/splash_pleazz/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1618136329,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1618136329,"~/.git/COMMIT_EDITMSG"
 -'  1  33  ~/.git/COMMIT_EDITMSG
 |4,39,1,33,1618131310,"~/.git/COMMIT_EDITMSG"
+-'  1  33  ~/.git/COMMIT_EDITMSG
+|4,39,1,33,1618131310,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1618131153,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1618131153,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1618130670,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1618130670,"~/.git/COMMIT_EDITMSG"
 -'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
@@ -104,6 +116,38 @@
 |4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
 -'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
 |4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  1  20  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,1,20,1617726868,"~/MathTool/.git/COMMIT_EDITMSG"
 -'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
 |4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
 -'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
@@ -168,40 +212,67 @@
 |4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
 -'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
 |4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
--'  1  0  ~/MathTool/.git/COMMIT_EDITMSG
-|4,39,1,0,1617726182,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
+-'  3  37  ~/MathTool/.git/COMMIT_EDITMSG
+|4,39,3,37,1617726322,"~/MathTool/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> /c/CookAndroid/Project/splash_pleazz/.git/COMMIT_EDITMSG
+	*	1618688435	0
+	"	2	0
+	^	2	0
+	.	1	35
+	+	1	35
 
 > ~/.git/COMMIT_EDITMSG
 	*	1618136322	0

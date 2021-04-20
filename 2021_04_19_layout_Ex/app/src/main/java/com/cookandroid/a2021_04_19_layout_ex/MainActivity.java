@@ -16,6 +16,10 @@ public class MainActivity extends AppCompatActivity {
 
     TextInputEditText TextInputEditText_email, TextInputEditText_password;
     LinearLayout LinearLayout_login, LinearLayout_GoogleLogin;
+    String emailOK = "123@gmail.com";
+    String passwordOK = "1234";
+    String inputEmail = "";
+    String inputPassword = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,52 +35,69 @@ public class MainActivity extends AppCompatActivity {
         //2. 클릭을 감지한다
         //3. 1번의 값을 다음 액티비티로 넘긴다
 
-//        TextInputEditText_email.addTextChangedListener(new TextWatcher() {
-//            @Override
-//            public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-//
-//            }
-//
-//            @Override
-//            public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-//                Log.d("SENTI",charSequence+","+i2);
-//            }
-//
-//            @Override
-//            public void afterTextChanged(Editable editable) {
-//
-//            }
-//        });
-//
-//        TextInputEditText_password.addTextChangedListener(new TextWatcher() {
-//            @Override
-//            public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-//
-//            }
-//
-//            @Override
-//            public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-//                Log.d("SENTI",charSequence+","+i2);
-//            }
-//
-//            @Override
-//            public void afterTextChanged(Editable editable) {
-//
-//            }
-//        });
+        LinearLayout_login.setClickable(false);
+        TextInputEditText_email.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+
+            }
+
+            @Override
+            public void onTextChanged(CharSequence s, int start, int before, int count) {
+                if(s != null) {
+                    Log.d("SENTI",s.toString());
+                    inputEmail = s.toString();
+                    //LinearLayout_login.setClickable(validation());
+                }
+            }
+
+            @Override
+            public void afterTextChanged(Editable s) {
+
+            }
+        });
+
+        TextInputEditText_password.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+
+            }
+
+            @Override
+            public void onTextChanged(CharSequence s, int start, int before, int count) {
+                if(s != null) {
+                    Log.d("SENTI",s.toString());
+                    inputPassword = s.toString();
+                    //LinearLayout_login.setClickable(validation());
+                }
+            }
+
+            @Override
+            public void afterTextChanged(Editable s) {
+
+            }
+        });
+
 
         LinearLayout_login.setClickable(true);//click가 가능하도록 설정
         LinearLayout_login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String email = TextInputEditText_email.getText().toString();
-                String password = TextInputEditText_password.getText().toString();
+                if(validation()) {
+                    String email = inputEmail;
+                    String password = inputPassword;
 
-                Intent intent = new Intent(MainActivity.this,LoginResultActivity.class);
-                intent.putExtra("email",email);
-                intent.putExtra("password",password);
-                startActivity(intent);
+                    Intent intent = new Intent(MainActivity.this, LoginResultActivity.class);
+                    intent.putExtra("email", email);
+                    intent.putExtra("password", password);
+                    startActivity(intent);
+                }
             }
         });
+
+    }
+
+    public boolean validation(){
+        return inputEmail.equals(emailOK) && inputPassword.equals(passwordOK);
     }
 }

@@ -288,3 +288,79 @@ git push
 git blame License
 git show 7117
 cd doopal
+git status main
+git checkout main
+cd chap_02
+git status
+git remote add origin 
+https://github.com/taeheee-kim/Android_example.gi
+git remote add origin https://github.com/taeheee-kim/Android_example.git
+git remote add main http://github.com/taeheee-kim/Android_example.git
+git push -u main master
+git push -u main master
+cd chap_02
+git push -u main master
+git remote add main https://github.com/taeheee-kim/Android_example.git
+git pull
+git push -u main master
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd CookAndroid
+cd Project
+cd splash_pleazz
+git init
+git config user.name "taehee"
+git config user.email "kimth25532@gmail.com"
+git add .
+git status
+git commit
+git remote add origin git remote add origin https://github.com/taeheee-kim/doopal_ex.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/taeheee-kim/doopal_ex.git
+git branch -M main
+git push -u origin main
+git push
+git checkout main
+cd users
+cd kth25
+cd 2021_04_layout_Ex
+git checkout master
+git checkout main
+cd ..
+cd SPB_Data
+cd 2021_04_19_layout_Ex
+git remote add origin https://github.com/taeheee-kim/senti_ex.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/taeheee-kim/senti_ex.git
+git branch -M main
+git push -u origin main
+git remote rm origin
+git remote add origin https://github.com/taeheee-kim/senti_ex.git
+git branch -M main
+git push -u origin main
+git add .
+git status
+git add 2021_04_19_layout_Ex
+git status
+cd ..
+git add 2021_04_19_layout_Ex
+git status
+git commit -m "example ~lecture(7)_Pass the data(email/PW) to another page if sb pushs Login Button"
+git push
+cd 2021_04_21_layout_Ex
+cd ..
+cd SPB_Data
+cd 2021_04_19_layout_Ex
+git psuh
+git push
+git remote set-url origin https://github.com/taeheee-kim/senti_ex.git
+git push
+git pull origin master
+git push
+git config remote.origin.push HEAD
+git push

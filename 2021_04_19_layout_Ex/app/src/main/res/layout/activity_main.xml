@@ -54,8 +54,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginBottom="16dp"
         android:paddingLeft="40dp"
-        android:paddingRight="40dp"
-        android:clickable="true">
+        android:paddingRight="40dp">
         <ImageView
             android:layout_width="23dp"
             android:layout_height="23dp"
@@ -88,8 +87,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginBottom="16dp"
         android:paddingLeft="40dp"
-        android:paddingRight="40dp"
-        android:clickable="true">
+        android:paddingRight="40dp">
         <ImageView
             android:layout_width="23dp"
             android:layout_height="23dp"
